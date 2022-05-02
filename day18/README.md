@@ -65,7 +65,7 @@ FROM emp;
 
 - Result
 
-  <img src="Day18.assets/JSON RESULT.png" alt="Json result" align = "left" style="zoom:80%;" />
+  <img src="Day18.assets/JSON RESULT.png" alt="Json result" style="zoom:80%;" />
 
 
 
@@ -89,7 +89,7 @@ FROM emp;
   
     - 한 사람이 여러 개의 상품을 사서 하나의 주문번호를 생성하는 법
     
-    <img src="Day18.assets/Relation Ex Image.png" alt="Relation EX image" align = "left" style="zoom:100%;" />
+    <img src="Day18.assets/Relation Ex Image.png" alt="Relation EX image" style="zoom:100%;" />
 
 
 
@@ -103,7 +103,7 @@ FROM emp;
 
 - [ERD Cloud](https://www.erdcloud.com/)
 
-<img src="Day18.assets/ERD 기능 설명 Image.png" alt="ERD 기능 설명 Image" align="left" style="zoom:80%;" />
+<img src="Day18.assets/ERD 기능 설명 Image.png" alt="ERD 기능 설명 Image" style="zoom:80%;" />
 
 
 
@@ -183,8 +183,7 @@ FROM emp;
       INNER JOIN emp e2 ON e1.manager = e2.empno;
       ```
 
-
-    - JOIN의 종류는 아무거나.
+- JOIN의 종류는 아무거나.
 
 
 
